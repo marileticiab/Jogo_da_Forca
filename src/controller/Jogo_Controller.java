@@ -14,7 +14,7 @@ public class Jogo_Controller {
     //verificar se a letra existe na palavra
     public boolean verificaLetra(String letra){
         
-        if(letra == )
+        //if(letra == )
     }
     
     

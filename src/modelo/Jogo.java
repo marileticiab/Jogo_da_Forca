@@ -11,7 +11,8 @@ public class Jogo {
     private boolean vencedor;
 
     //iniciando o jogo
-    public Jogo(int rodada, String palavra, int tentativa, int erros, String dica) {
+    //ação do jogador 1
+    public Jogo(String palavra, String dica) {
         this.rodada = 1;
         this.palavra = palavra;
         this.tentativa = 1;
@@ -20,6 +21,7 @@ public class Jogo {
     }
 
     //ao longo da partida
+    //ação do jogador 2
     public Jogo(int rodada, String letra, int tentativa, int erros, boolean vencedor) {
         this.rodada = rodada;
         this.letra = letra;
