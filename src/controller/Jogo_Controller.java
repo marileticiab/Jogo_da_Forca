@@ -12,10 +12,10 @@ public class Jogo_Controller {
     }
 
     //verificar se a letra existe na palavra
-    public boolean verificaLetra(String letra){
+    //public boolean verificaLetra(String letra){
         
         //if(letra == )
-    }
+    //}
     
     
     
