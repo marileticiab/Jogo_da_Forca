@@ -1,8 +1,8 @@
 package modelo;
 
 public class Jogo {
-    
-    private int rodada;
+   
+    //variáveis
     private String palavra;
     private String letra;
     private int tentativa;
@@ -10,30 +10,25 @@ public class Jogo {
     private String dica;
     private boolean vencedor;
 
-    //iniciando o jogo
-    //ação do jogador 1
+    //CONSTRUTOR 1 - iniciando o jogo
+    //ação do jogador 1 -> panel 1
     public Jogo(String palavra, String dica) {
-        this.rodada = 1;
         this.palavra = palavra;
         this.tentativa = 1;
         this.erros = 0;
         this.dica = dica;
     }
 
-    //ao longo da partida
-    //ação do jogador 2
-    public Jogo(int rodada, String letra, int tentativa, int erros, boolean vencedor) {
-        this.rodada = rodada;
+    //CONSTRUTOR 2 - ao longo da partida
+    //ação do jogador 2 -> panel 2
+    public Jogo(String letra, int tentativa, int erros, boolean vencedor) {
         this.letra = letra;
         this.tentativa = tentativa;
         this.erros = erros;
         this.vencedor = vencedor;
     }
 
-    public void setRodada(int rodada) {
-        this.rodada = rodada;
-    }
-
+    //setters --> possível alteração
     public void setLetra(String letra) {
         this.palavra = letra;
     }
@@ -46,14 +41,7 @@ public class Jogo {
         this.erros = erros;
     }
 
-    public void setVencedor(boolean vencedor) {
-        this.vencedor = vencedor;
-    }
-
-    public int getRodada() {
-        return rodada;
-    }
-
+    //getters --> possível acesso
     public String getLetra() {
         return palavra;
     }
@@ -65,5 +53,13 @@ public class Jogo {
     public int getErros() {
         return erros;
     }
-    
+
+    public String getDica() {
+        return dica;
+    }
+
+    public String getPalavra() {
+        return palavra;
+    }
+  
 }
