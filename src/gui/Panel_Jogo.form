@@ -36,6 +36,7 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
+<<<<<<< HEAD
               <Group type="102" attributes="0">
                   <EmptySpace min="-2" pref="327" max="-2" attributes="0"/>
                   <Component id="jogoLabel" min="-2" max="-2" attributes="0"/>
@@ -80,6 +81,49 @@
                       <Component id="segredoLabel" max="32767" attributes="0"/>
                   </Group>
                   <EmptySpace min="-2" pref="215" max="-2" attributes="0"/>
+=======
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="327" max="-2" attributes="0"/>
+                  <Component id="jogoLabel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="dicaLabel" alignment="0" min="-2" pref="86" max="-2" attributes="0"/>
+                      <Component id="jogado2Label" min="-2" max="-2" attributes="0"/>
+                      <Component id="dicaTxt2" alignment="0" min="-2" pref="326" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="errosLabel" min="-2" pref="85" max="-2" attributes="0"/>
+                              <Component id="tentativaLabel" min="-2" pref="113" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="tenatativasTxt2" min="-2" pref="62" max="-2" attributes="0"/>
+                              <Component id="errosTxt2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="rodadaLabel1" min="-2" pref="85" max="-2" attributes="0"/>
+                              <Component id="rodadaTxt2" min="-2" pref="63" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="rodadaLabel" min="-2" pref="85" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="letraTxt" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="verificaBnt" min="-2" pref="104" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="79" max="32767" attributes="0"/>
+                  <Component id="forcaPainel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
               </Group>
           </Group>
         </DimensionLayout>
@@ -91,11 +135,17 @@
                           <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
                           <Component id="jogoLabel" min="-2" max="-2" attributes="0"/>
                           <EmptySpace max="-2" attributes="0"/>
+<<<<<<< HEAD
                           <Component id="forcaLabel" min="-2" pref="401" max="-2" attributes="0"/>
                           <EmptySpace type="separate" max="-2" attributes="0"/>
                           <Component id="segredoLabel" min="-2" pref="64" max="-2" attributes="0"/>
                       </Group>
                       <Group type="102" attributes="0">
+=======
+                          <Component id="forcaPainel" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
                           <EmptySpace min="-2" pref="141" max="-2" attributes="0"/>
                           <Component id="jogado2Label" min="-2" max="-2" attributes="0"/>
                           <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
@@ -112,6 +162,7 @@
                               <Component id="errosLabel" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
                               <Component id="errosTxt2" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
+<<<<<<< HEAD
                           <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="3" attributes="0">
                               <Component id="rodadaLabel" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
@@ -122,6 +173,25 @@
                       </Group>
                   </Group>
                   <EmptySpace pref="72" max="32767" attributes="0"/>
+=======
+                          <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="rodadaLabel1" min="-2" pref="35" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="rodadaLabel" alignment="3" min="-2" pref="35" max="-2" attributes="0"/>
+                                      <Component id="letraTxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="verificaBnt" min="-2" pref="34" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="rodadaTxt2" alignment="0" min="-2" pref="57" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="52" max="32767" attributes="0"/>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
               </Group>
           </Group>
         </DimensionLayout>
@@ -135,10 +205,17 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="18" style="2"/>
             </Property>
+<<<<<<< HEAD
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="letraTxtActionPerformed"/>
           </Events>
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
         </Component>
         <Component class="javax.swing.JLabel" name="dicaLabel">
           <Properties>
@@ -148,9 +225,38 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="18" style="2"/>
             </Property>
+<<<<<<< HEAD
             <Property name="text" type="java.lang.String" value="Dica:"/>
           </Properties>
         </Component>
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Dica:"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JPanel" name="forcaPainel">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="cc" red="cc" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="543" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="503" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
         <Component class="javax.swing.JLabel" name="errosLabel">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -159,6 +265,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="18" style="2"/>
             </Property>
+<<<<<<< HEAD
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="Erros:"/>
           </Properties>
         </Component>
@@ -170,6 +282,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="18" style="2"/>
             </Property>
+<<<<<<< HEAD
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="Tentativa:"/>
           </Properties>
         </Component>
@@ -181,6 +299,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="18" style="2"/>
             </Property>
+<<<<<<< HEAD
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="Letra:"/>
           </Properties>
         </Component>
@@ -189,6 +313,12 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="24" style="1"/>
             </Property>
+<<<<<<< HEAD
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="Jogador 2"/>
           </Properties>
         </Component>
@@ -203,27 +333,57 @@
             <Property name="text" type="java.lang.String" value="JOGO DA FORCA"/>
           </Properties>
         </Component>
+<<<<<<< HEAD
         <Component class="javax.swing.JLabel" name="dicaTxt2">
           <Properties>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Segoe UI Black" size="14" style="1"/>
             </Property>
+=======
+        <Component class="javax.swing.JLabel" name="rodadaLabel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="cc" green="cc" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="SimSun" size="18" style="2"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Rodada:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="dicaTxt2">
+          <Properties>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="tenatativasTxt2">
           <Properties>
+<<<<<<< HEAD
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Segoe UI Black" size="14" style="1"/>
             </Property>
+=======
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="errosTxt2">
           <Properties>
+<<<<<<< HEAD
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Segoe UI Black" size="14" style="1"/>
             </Property>
+=======
+            <Property name="text" type="java.lang.String" value="jLabel1"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="rodadaTxt2">
+          <Properties>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="jLabel1"/>
           </Properties>
         </Component>
@@ -235,12 +395,19 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="SimSun" size="14" style="1"/>
             </Property>
+<<<<<<< HEAD
+=======
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
             <Property name="text" type="java.lang.String" value="VERIFICA"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="verificaBntActionPerformed"/>
           </Events>
         </Component>
+<<<<<<< HEAD
         <Component class="javax.swing.JLabel" name="forcaLabel">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -262,6 +429,8 @@
             </Property>
           </Properties>
         </Component>
+=======
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
       </SubComponents>
     </Container>
   </SubComponents>

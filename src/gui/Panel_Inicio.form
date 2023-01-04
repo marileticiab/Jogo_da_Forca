@@ -47,16 +47,27 @@
                       </Group>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
+<<<<<<< HEAD
+=======
+                      <EmptySpace min="-2" pref="455" max="-2" attributes="0"/>
+                      <Component id="iniciaBnt" min="-2" pref="136" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
                       <EmptySpace min="-2" pref="388" max="-2" attributes="0"/>
                       <Component id="jogoLabel" min="-2" max="-2" attributes="0"/>
                   </Group>
               </Group>
+<<<<<<< HEAD
               <EmptySpace pref="156" max="32767" attributes="0"/>
           </Group>
           <Group type="102" alignment="1" attributes="0">
               <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
               <Component id="iniciaBnt" min="-2" pref="136" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="254" max="-2" attributes="0"/>
+=======
+              <EmptySpace pref="387" max="32767" attributes="0"/>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
           </Group>
       </Group>
     </DimensionLayout>
@@ -74,7 +85,13 @@
                           <Component id="palavraSegredoLabel" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
                           <Component id="palavraSegredoTxt" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
+<<<<<<< HEAD
                       <EmptySpace max="32767" attributes="0"/>
+=======
+                      <EmptySpace min="-2" pref="170" max="-2" attributes="0"/>
+                      <Component id="iniciaBnt" min="-2" pref="39" max="-2" attributes="0"/>
+                      <EmptySpace pref="111" max="32767" attributes="0"/>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
                   </Group>
                   <Group type="102" attributes="0">
                       <EmptySpace max="32767" attributes="0"/>
@@ -82,11 +99,17 @@
                           <Component id="dicaLabel" alignment="3" min="-2" pref="28" max="-2" attributes="0"/>
                           <Component id="dicaTxt" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
+<<<<<<< HEAD
                       <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
                   </Group>
               </Group>
               <Component id="iniciaBnt" min="-2" pref="39" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+=======
+                      <EmptySpace min="-2" pref="261" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
           </Group>
       </Group>
     </DimensionLayout>
@@ -100,6 +123,12 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="SimSun" size="18" style="2"/>
         </Property>
+<<<<<<< HEAD
+=======
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dicaTxtActionPerformed"/>
@@ -113,6 +142,12 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="SimSun" size="18" style="2"/>
         </Property>
+<<<<<<< HEAD
+=======
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="palavraSegredoTxtActionPerformed"/>
@@ -126,6 +161,12 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="SimSun" size="18" style="2"/>
         </Property>
+<<<<<<< HEAD
+=======
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
         <Property name="text" type="java.lang.String" value="Informe a dica:"/>
       </Properties>
     </Component>
@@ -137,6 +178,12 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="SimSun" size="18" style="2"/>
         </Property>
+<<<<<<< HEAD
+=======
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
         <Property name="text" type="java.lang.String" value="Informe a palavra:"/>
       </Properties>
     </Component>
@@ -148,6 +195,12 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="SimSun" size="14" style="1"/>
         </Property>
+<<<<<<< HEAD
+=======
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
         <Property name="text" type="java.lang.String" value="INICIAR JOGO"/>
       </Properties>
       <Events>
@@ -159,6 +212,12 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="SimSun" size="24" style="1"/>
         </Property>
+<<<<<<< HEAD
+=======
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+>>>>>>> bda2809a774001fa9f5890a447970b54bb1e50fa
         <Property name="text" type="java.lang.String" value="Jogador 1"/>
       </Properties>
     </Component>
